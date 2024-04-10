@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thösam
 - 👀 I’m interested in Software Development and Deep Learning
-- 🌱 I’m currently learning Backend Development with express js and Mobile Development with react native
+- 🌱 I’m currently working as a Software Engineer Intern at [Adnovum](https://www.adnovum.com/)
 - 💞️ I’m looking to collaborate on meaninful projects that help solve real world problems
 - 📫 How to reach me : you can reach out to me via email at thosamthosamthosam@gmail.com
 
