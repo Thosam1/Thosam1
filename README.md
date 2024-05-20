@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on meaninful projects that help solve real world problems
 - 📫 How to reach me : you can reach out to me via email at thosamthosamthosam@gmail.com
 
-- 🚀 My personal website : https://thosam.vercel.app/
+- 🚀 My personal website : https://thosam.com/
 - 🎬 My youtube channel : https://www.youtube.com/channel/UCadaAVpUtRtVSfPPy7z5lXA
 - 💼 My linkedin : https://www.linkedin.com/in/thosam-norlha/
 
