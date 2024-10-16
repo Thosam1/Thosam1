@@ -19,10 +19,10 @@ You can click the Preview link to take a look at your changes.
   
   <div align="center"> 
     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thosam1&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thosam1&show_icons=true&include_all_commits=true&count_private=true&theme=vue&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thosam1&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thosam1&theme=vue&line_height=40&hide=css"/>
     </a>
   </div
   
