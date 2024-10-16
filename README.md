@@ -30,6 +30,6 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left"> Streak Stats 🔥 </h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thosam1&theme=react"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thosam1&theme=vue"/>
 </p>
  
