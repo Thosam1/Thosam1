@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thösam
 - 👀 I’m interested in Software Development and Deep Learning
-- 🌱 I’m currently working as a Software Engineer Intern at [Adnovum](https://www.adnovum.com/)
+- 🌱 I’m currently studying CS at [ETHZ](https://www.topuniversities.com/universities/eth-zurich) with a special interest in Machine Intelligence.
 - 💞️ I’m looking to collaborate on meaninful projects that help solve real world problems
 - 📫 How to reach me : you can reach out to me via email at thosamthosamthosam@gmail.com
 
