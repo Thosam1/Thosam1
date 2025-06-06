@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Thösam
-- 👀 I’m interested in Software Development and Deep Learning
+<p align="center">
+  <img src="assets/github_banner.png" alt="banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Thösam !</h1>
+<h3 align="center">I belive that the key to happiness lies in helping others.</h3>
+
+- 👀 I’m interested in Data Science and Software Engineering
 - 🌱 I’m currently studying CS at [ETHZ](https://www.topuniversities.com/universities/eth-zurich) with a special interest in Machine Intelligence.
 - 💞️ I’m looking to collaborate on meaninful projects that help solve real world problems
-- 📫 How to reach me : you can reach out to me via email at thosamthosamthosam@gmail.com
+- 📫 You can reach out to me via email at thosamthosamthosam@gmail.com
 
 - 🚀 My personal website : https://thosam.com/
 - 🎬 My youtube channel : https://www.youtube.com/channel/UCadaAVpUtRtVSfPPy7z5lXA
