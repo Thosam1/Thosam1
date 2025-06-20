@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Thösam !</h1>
-<h3 align="center">I belive that the key to happiness lies in helping others.</h3>
+<h3 align="center">I believe that the key to happiness lies in helping others.</h3>
 
 - 👀 I’m interested in Data Science and Software Engineering
 - 🌱 I’m currently studying CS at [ETHZ](https://www.topuniversities.com/universities/eth-zurich) with a special interest in Machine Intelligence.
